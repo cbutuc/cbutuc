@@ -1,15 +1,15 @@
-
-<h1 align="center">Hi 👋, I'm Cristina Butuc</h1>
-<h3 align="center">A passionate frontend developer from Romania</h3>
+<h1>Hi there, I'm Cristina Butuc 👋</h1>
+<h3>I am a junior front-end developer. I love programming, books and animals.</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🔭 I’m currently working on [lorem-pets](https://github.com/cbutuc/lorem-pets)
+- 🔭 I’m currently working on a [pet website](https://github.com/cbutuc/lorem-pets);
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Algorithms** on [codewars](https://www.codewars.com/users/Andreea07) and **React**;
 
-- 📫 How to reach me **butuc_cristina2000@yahoo.com**
+- 📫 How to reach me **butuc_cristina2000@yahoo.com**;
 
-- ⚡ Fun fact **I love playing chess**
+- ⚡ Fun fact **I love to play chess**.
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
