@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Cristina 👋</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=e876c1&center=true&lines=Software+Engineer;Full-Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL&center=true&width=450&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=e876c1&center=true&lines=Software+Engineer&center=true&width=380&height=45"></a>
 </p>
 
 ## 💫 About Me:
@@ -8,7 +8,7 @@
 
 Passionate software engineer with **3+ years** of experience building scalable web applications. I specialize in **frontend development** with React and Next.js, and actively expanding my full-stack capabilities with Node.js, Express, and PostgreSQL.
 
-- 🔭 Currently building **[Planka](https://github.com/cbutuc/planka)** — a full-stack Kanban project management app (React/Vite, Node.js/Express, PostgreSQL)
+- 🔭 Currently building **[Planka](https://github.com/cbutuc/planka)** - a full-stack Kanban project management app (React/Vite, Node.js/Express, PostgreSQL)
 - 🛠️ Tech Stack: **React** • **Next.js** • **Node.js** • **Express** • **PostgreSQL** • **TypeScript** • **Git**
 - 💡 Focus: Clean code, scalable architecture, and thoughtful UI/UX
 - 🧠 Continuously learning backend systems, algorithms, and system design
