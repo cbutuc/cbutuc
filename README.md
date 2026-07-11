@@ -4,12 +4,22 @@
 </p>
 
 ## 💫 About Me:
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+# Hey there! 👋
 
-Passionate software engineer with **~3 years** of experience building scalable web applications. I specialize in **frontend development** with React and Next.js, and actively expanding my full-stack capabilities with Node.js, Express, and PostgreSQL.
+I'm Cristina.
+
+I'm a self-taught developer (thank god for YouTube) who started with HTML, CSS and JavaScript back in 2022. 
+
+Since then I've spent ~3 years building production frontend — React, Next.js and TypeScript, mostly on large-scale apps serving multiple markets. I like the part where a hard problem finally clicks.
+
+Outside of work, I'm usually watching movies, taking long walks, or getting lost in something new.
+
+Lately I've been having a lot of fun extending myself into full-stack with Node.js, Express and PostgreSQL.
+
+📫 cristina.butuc@outlook.com · [LinkedIn](https://linkedin.com/in/cristina-butuc-0b0239274)
 
 - 🔭 Currently building **[Planka](https://github.com/cbutuc/planka)** - a full-stack Kanban project management app (React/Vite, Node.js/Express, PostgreSQL)
-- 🛠️ Tech Stack: **React** • **Next.js** • **Node.js** • **Express** • **PostgreSQL** • **TypeScript** • **Git**
+- 🛠️ Tech Stack: **React** • **Next.js** • **TypeScript** • **Git**
 - 💡 Focus: Clean code, scalable architecture, and thoughtful UI/UX
 - 🧠 Continuously learning backend systems, algorithms, and system design
 - 📫 Reach me at **cristina.butuc@outlook.com**
@@ -20,13 +30,10 @@ Passionate software engineer with **~3 years** of experience building scalable w
   <a href="https://linkedin.com/in/cristina-butuc-0b0239274">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/cbutuc">
-   <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/>
-  </a>
 </p>
 
 ## 💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,postgresql,git,github,docker,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,git,github,docker,vscode&perline=8)](https://skillicons.dev)
 
 
 
