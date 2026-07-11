@@ -4,13 +4,8 @@
 </p>
 
 ## 💫 About Me:
-# Hey there! 👋
-
-I'm Cristina.
 
 I'm a self-taught developer (thank god for YouTube) who started with HTML, CSS and JavaScript back in 2022. 
-
-Since then I've spent ~3 years building production frontend — React, Next.js and TypeScript, mostly on large-scale apps serving multiple markets. I like the part where a hard problem finally clicks.
 
 Outside of work, I'm usually watching movies, taking long walks, or getting lost in something new.
 
