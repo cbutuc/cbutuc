@@ -31,7 +31,7 @@ Lately I've been having a lot of fun extending myself into full-stack with Node.
 
 ## 💻 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,git,docker,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,git,vscode&perline=8)](https://skillicons.dev)
 
 ## 🚀 Featured Projects:
 
